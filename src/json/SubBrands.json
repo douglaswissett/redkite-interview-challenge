@@ -1,0 +1,2522 @@
+[
+  {
+    "ID": 2874,
+    "IndividualBrandVariantName": "Absolut Vodka Unique Edition",
+    "IndividualBrandVariantCode": 2001104,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 3014,
+    "IndividualBrandVariantName": "Aberlour 10YO",
+    "IndividualBrandVariantCode": 2001049,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 3767,
+    "IndividualBrandVariantName": "Absolut Blue Vodka",
+    "IndividualBrandVariantCode": 2001105,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 4195,
+    "IndividualBrandVariantName": "3D Blended Malt Scotch",
+    "IndividualBrandVariantCode": 2001012,
+    "BrandName": "3D",
+    "BrandCode": 1000103,
+    "ProductSectorName": "Blended Scotch Whisky",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 4262,
+    "IndividualBrandVariantName": "Absolut Citron",
+    "IndividualBrandVariantCode": 2001106,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 4818,
+    "IndividualBrandVariantName": "Absolut Kurant",
+    "IndividualBrandVariantCode": 2001107,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 5230,
+    "IndividualBrandVariantName": "Absolut Vodka Mode Edition",
+    "IndividualBrandVariantCode": 2001102,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 9280,
+    "IndividualBrandVariantName": "After Shock",
+    "IndividualBrandVariantCode": 2001266,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 11515,
+    "IndividualBrandVariantName": "Allegrini Italian Wine",
+    "IndividualBrandVariantCode": 2001304,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 12121,
+    "IndividualBrandVariantName": "Absolut Svea",
+    "IndividualBrandVariantCode": 2001096,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 13713,
+    "IndividualBrandVariantName": "Absolut Orient Apple",
+    "IndividualBrandVariantCode": 2001087,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 14084,
+    "IndividualBrandVariantName": "Absolut Cut",
+    "IndividualBrandVariantCode": 2001073,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Pre-Mixed",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 27086,
+    "IndividualBrandVariantName": "Allegrini Valpolicella Superiore",
+    "IndividualBrandVariantCode": 2116776,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 27092,
+    "IndividualBrandVariantName": "Allegrini Belpasso",
+    "IndividualBrandVariantCode": 2116777,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 27682,
+    "IndividualBrandVariantName": "ABC Unknown",
+    "IndividualBrandVariantCode": 2001042,
+    "BrandName": "ABC",
+    "BrandCode": 1000110,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 27685,
+    "IndividualBrandVariantName": "Aftershock Other",
+    "IndividualBrandVariantCode": 2001261,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 27690,
+    "IndividualBrandVariantName": "Alexander Keith Unknown",
+    "IndividualBrandVariantCode": 2001284,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 27692,
+    "IndividualBrandVariantName": "Alize Other",
+    "IndividualBrandVariantCode": 2001288,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 27695,
+    "IndividualBrandVariantName": "Allsopps Unknown",
+    "IndividualBrandVariantCode": 2001308,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 34638,
+    "IndividualBrandVariantName": "Absolut Mango",
+    "IndividualBrandVariantCode": 2001085,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 35307,
+    "IndividualBrandVariantName": "Aberlour A'bunadh",
+    "IndividualBrandVariantCode": 2001052,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 35566,
+    "IndividualBrandVariantName": "Absolut Flavours",
+    "IndividualBrandVariantCode": 2001079,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 35791,
+    "IndividualBrandVariantName": "Absolut Vanilia",
+    "IndividualBrandVariantCode": 2001101,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 36539,
+    "IndividualBrandVariantName": "Absolut Lime",
+    "IndividualBrandVariantCode": 2001083,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 36546,
+    "IndividualBrandVariantName": "Absolut 100",
+    "IndividualBrandVariantCode": 2001098,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 37022,
+    "IndividualBrandVariantName": "Alize Bleu Passion",
+    "IndividualBrandVariantCode": 2001291,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 37026,
+    "IndividualBrandVariantName": "Absolut Five",
+    "IndividualBrandVariantCode": 2001076,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 37127,
+    "IndividualBrandVariantName": "Aberlour 12YO",
+    "IndividualBrandVariantCode": 2001064,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 37779,
+    "IndividualBrandVariantName": "Absolut Pears",
+    "IndividualBrandVariantCode": 2001090,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 37839,
+    "IndividualBrandVariantName": "Barbera D'Alba Gepin 10",
+    "IndividualBrandVariantCode": 2132396,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 37997,
+    "IndividualBrandVariantName": "Absolut Elyx",
+    "IndividualBrandVariantCode": 2001075,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38190,
+    "IndividualBrandVariantName": "After Shock Fizzy Orng",
+    "IndividualBrandVariantCode": 2001268,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38374,
+    "IndividualBrandVariantName": "Absolut Trio",
+    "IndividualBrandVariantCode": 2001097,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38523,
+    "IndividualBrandVariantName": "Absolut Raspberri",
+    "IndividualBrandVariantCode": 2001093,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38575,
+    "IndividualBrandVariantName": "Absolut Vodka Original",
+    "IndividualBrandVariantCode": 2001103,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38583,
+    "IndividualBrandVariantName": "Aberlour Others",
+    "IndividualBrandVariantCode": 2001055,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38630,
+    "IndividualBrandVariantName": "Absolut Level",
+    "IndividualBrandVariantCode": 2001082,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 38683,
+    "IndividualBrandVariantName": "Absolut Apeach",
+    "IndividualBrandVariantCode": 2001100,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 39436,
+    "IndividualBrandVariantName": "Absolut Ruby Red",
+    "IndividualBrandVariantCode": 2001094,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 41885,
+    "IndividualBrandVariantName": "Absolut Cherrys",
+    "IndividualBrandVariantCode": 2001070,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42016,
+    "IndividualBrandVariantName": "Absolut Berri Acai",
+    "IndividualBrandVariantCode": 2001068,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42081,
+    "IndividualBrandVariantName": "After Shock Spiced Berry",
+    "IndividualBrandVariantCode": 2001270,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42215,
+    "IndividualBrandVariantName": "Absolut Mandrin",
+    "IndividualBrandVariantCode": 2001084,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42243,
+    "IndividualBrandVariantName": "Alize Gold Passion",
+    "IndividualBrandVariantCode": 2001294,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42340,
+    "IndividualBrandVariantName": "Aberlour 18YO",
+    "IndividualBrandVariantCode": 2001067,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42799,
+    "IndividualBrandVariantName": "Absolut Peppar",
+    "IndividualBrandVariantCode": 2001092,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 42859,
+    "IndividualBrandVariantName": "Barbaresco Albino Rocca 13",
+    "IndividualBrandVariantCode": 2133020,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 42888,
+    "IndividualBrandVariantName": "Barbaresco Ovello Vgn Loreto 07",
+    "IndividualBrandVariantCode": 2133025,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 43862,
+    "IndividualBrandVariantName": "Alize Red Passion",
+    "IndividualBrandVariantCode": 2001292,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 43991,
+    "IndividualBrandVariantName": "Absolut Electrik",
+    "IndividualBrandVariantCode": 2001074,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 44117,
+    "IndividualBrandVariantName": "Aberlour 16YO",
+    "IndividualBrandVariantCode": 2001066,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 44388,
+    "IndividualBrandVariantName": "Absolut Other",
+    "IndividualBrandVariantCode": 2001088,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 44587,
+    "IndividualBrandVariantName": "Absolut Mixt",
+    "IndividualBrandVariantCode": 2001086,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Pre-Mixed",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 49975,
+    "IndividualBrandVariantName": "Allegrini Palazzo Della Torre",
+    "IndividualBrandVariantCode": 2001302,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 49983,
+    "IndividualBrandVariantName": "Little Vienna",
+    "IndividualBrandVariantCode": 2070422,
+    "BrandName": "Little Vienna",
+    "BrandCode": 1022443,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 50940,
+    "IndividualBrandVariantName": "Allsopps Lager",
+    "IndividualBrandVariantCode": 2001305,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 54254,
+    "IndividualBrandVariantName": "Alta Vista Alto Malbec",
+    "IndividualBrandVariantCode": 2001317,
+    "BrandName": "Alta Vista",
+    "BrandCode": 1000128,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 54553,
+    "IndividualBrandVariantName": "Aftershock Black",
+    "IndividualBrandVariantCode": 2001262,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 54772,
+    "IndividualBrandVariantName": "10 Cane Rum",
+    "IndividualBrandVariantCode": 2,
+    "BrandName": "10 Cane",
+    "BrandCode": 1000100,
+    "ProductSectorName": "Dark Rum",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 54781,
+    "IndividualBrandVariantName": "Aftershock Blue",
+    "IndividualBrandVariantCode": 2001263,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 55026,
+    "IndividualBrandVariantName": "Aftershock Green",
+    "IndividualBrandVariantCode": 2001264,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 55240,
+    "IndividualBrandVariantName": "Aftershock Red",
+    "IndividualBrandVariantCode": 2001265,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 56040,
+    "IndividualBrandVariantName": "Altesino Grappa De Brunello",
+    "IndividualBrandVariantCode": 2001322,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Grappa",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 56595,
+    "IndividualBrandVariantName": "Altesino Rosso IGT",
+    "IndividualBrandVariantCode": 2001324,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 65062,
+    "IndividualBrandVariantName": "Absolut Botanik Unknown",
+    "IndividualBrandVariantCode": 2084028,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Pre-Mixed",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 65167,
+    "IndividualBrandVariantName": "Aberlour Triple Cask",
+    "IndividualBrandVariantCode": 2135775,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "CategorySize"
+  },
+  {
+    "ID": 66911,
+    "IndividualBrandVariantName": "Barbaresco Vign Brich Ronchi 07",
+    "IndividualBrandVariantCode": 2122587,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 67053,
+    "IndividualBrandVariantName": "Keiths IPA Ale",
+    "IndividualBrandVariantCode": 2135450,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "CategorySize"
+  },
+  {
+    "ID": 67054,
+    "IndividualBrandVariantName": "Keiths Premium White Ale",
+    "IndividualBrandVariantCode": 2135217,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "CategorySize"
+  },
+  {
+    "ID": 72193,
+    "IndividualBrandVariantName": "Allsopps Stout in a Bottle",
+    "IndividualBrandVariantCode": 2001309,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "Stout",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 74770,
+    "IndividualBrandVariantName": "Absolut Wild Tea",
+    "IndividualBrandVariantCode": 2001110,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75164,
+    "IndividualBrandVariantName": "Absolut Vodka Rock Edition",
+    "IndividualBrandVariantCode": 2001114,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75182,
+    "IndividualBrandVariantName": "Absolut Andy Warhol",
+    "IndividualBrandVariantCode": 2001116,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75310,
+    "IndividualBrandVariantName": "Absolut Extrakt",
+    "IndividualBrandVariantCode": 2001117,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75431,
+    "IndividualBrandVariantName": "Absolut Ilusion",
+    "IndividualBrandVariantCode": 2001120,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75432,
+    "IndividualBrandVariantName": "Absolut Karnival",
+    "IndividualBrandVariantCode": 2001121,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 75433,
+    "IndividualBrandVariantName": "Absolut Mexico",
+    "IndividualBrandVariantCode": 2001122,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 79759,
+    "IndividualBrandVariantName": "22 Marquis Unknown",
+    "IndividualBrandVariantCode": 2001005,
+    "BrandName": "22 Marquis",
+    "BrandCode": 1000101,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 79760,
+    "IndividualBrandVariantName": "Allegrini Grappa Di Amarone",
+    "IndividualBrandVariantCode": 2057939,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 79763,
+    "IndividualBrandVariantName": "3D Unknown",
+    "IndividualBrandVariantCode": 2001011,
+    "BrandName": "3D",
+    "BrandCode": 1000103,
+    "ProductSectorName": "Blended Scotch Whisky",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 80014,
+    "IndividualBrandVariantName": "Alize Red & Viking Fjord Citrus",
+    "IndividualBrandVariantCode": 2052525,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80024,
+    "IndividualBrandVariantName": "Alize Green Passion",
+    "IndividualBrandVariantCode": 2075711,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80038,
+    "IndividualBrandVariantName": "Alize Apple",
+    "IndividualBrandVariantCode": 2052513,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80056,
+    "IndividualBrandVariantName": "Alize Coco Coconut",
+    "IndividualBrandVariantCode": 2052515,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80158,
+    "IndividualBrandVariantName": "Alexander Keiths Assorted",
+    "IndividualBrandVariantCode": 2032852,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80165,
+    "IndividualBrandVariantName": "Alexander Keiths Brown Ale",
+    "IndividualBrandVariantCode": 2032853,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80191,
+    "IndividualBrandVariantName": "10 Cane Unknown",
+    "IndividualBrandVariantCode": 2001000,
+    "BrandName": "10 Cane",
+    "BrandCode": 1000100,
+    "ProductSectorName": "Dark Rum",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 80218,
+    "IndividualBrandVariantName": "7UP Lime and Lemon",
+    "IndividualBrandVariantCode": 2050853,
+    "BrandName": "7UP",
+    "BrandCode": 1000106,
+    "ProductSectorName": "Soft Drinks",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80306,
+    "IndividualBrandVariantName": "Alize Coco Peach",
+    "IndividualBrandVariantCode": 2052516,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80316,
+    "IndividualBrandVariantName": "Alize Coco Pineapple",
+    "IndividualBrandVariantCode": 2052517,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80323,
+    "IndividualBrandVariantName": "Alize Cognac Vs",
+    "IndividualBrandVariantCode": 2052518,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80330,
+    "IndividualBrandVariantName": "Alize Peach",
+    "IndividualBrandVariantCode": 2052520,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80340,
+    "IndividualBrandVariantName": "Alize Pomegranate",
+    "IndividualBrandVariantCode": 2052521,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80388,
+    "IndividualBrandVariantName": "Aftershock 3Rd Degree IPA",
+    "IndividualBrandVariantCode": 2034171,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80394,
+    "IndividualBrandVariantName": "Aftershock Jess Y James Imp Stout",
+    "IndividualBrandVariantCode": 2034172,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Stout",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80401,
+    "IndividualBrandVariantName": "Aftershock Orange Cream Ale",
+    "IndividualBrandVariantCode": 2034173,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80405,
+    "IndividualBrandVariantName": "Aftershock Oatmeal Raisin Cookie Ale",
+    "IndividualBrandVariantCode": 2034174,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80416,
+    "IndividualBrandVariantName": "Aftershock Rhtr Rch Ale",
+    "IndividualBrandVariantCode": 2034175,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80606,
+    "IndividualBrandVariantName": "Alize Rose",
+    "IndividualBrandVariantCode": 2052522,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80641,
+    "IndividualBrandVariantName": "Alize Wild Passion",
+    "IndividualBrandVariantCode": 2052523,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 80649,
+    "IndividualBrandVariantName": "Aberlour Casg Annamh",
+    "IndividualBrandVariantCode": 2074247,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 80650,
+    "IndividualBrandVariantName": "Aberlour 23YO",
+    "IndividualBrandVariantCode": 2074037,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 80651,
+    "IndividualBrandVariantName": "Aberlour White Oak",
+    "IndividualBrandVariantCode": 2075654,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80698,
+    "IndividualBrandVariantName": "Alexander Keiths Pale Ale",
+    "IndividualBrandVariantCode": 2032855,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 80752,
+    "IndividualBrandVariantName": "Aberlour 15YO",
+    "IndividualBrandVariantCode": 2076466,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80820,
+    "IndividualBrandVariantName": "Absolut Grapevine",
+    "IndividualBrandVariantCode": 2076829,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80821,
+    "IndividualBrandVariantName": "Absolut Oak",
+    "IndividualBrandVariantCode": 2076660,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80822,
+    "IndividualBrandVariantName": "Absolut Watkins Traveler's Exclusive",
+    "IndividualBrandVariantCode": 2075843,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 80881,
+    "IndividualBrandVariantName": "Absolut Juice Strawberry Edition",
+    "IndividualBrandVariantCode": 2074295,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82109,
+    "IndividualBrandVariantName": "Absolut Masquerade",
+    "IndividualBrandVariantCode": 2084664,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_ES_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 82110,
+    "IndividualBrandVariantName": "Absolut Rio",
+    "IndividualBrandVariantCode": 2050993,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82111,
+    "IndividualBrandVariantName": "Absolut Facet",
+    "IndividualBrandVariantCode": 2064616,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82129,
+    "IndividualBrandVariantName": "Absolut Uncover",
+    "IndividualBrandVariantCode": 2064633,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82131,
+    "IndividualBrandVariantName": "Absolut Grape",
+    "IndividualBrandVariantCode": 2064715,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82628,
+    "IndividualBrandVariantName": "King Of Hops Lager",
+    "IndividualBrandVariantCode": 2070077,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82717,
+    "IndividualBrandVariantName": "Absolut Tune",
+    "IndividualBrandVariantCode": 2065327,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 82732,
+    "IndividualBrandVariantName": "Absolut Miami",
+    "IndividualBrandVariantCode": 2065397,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 82751,
+    "IndividualBrandVariantName": "King Of Hops Ipa",
+    "IndividualBrandVariantCode": 2071419,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82760,
+    "IndividualBrandVariantName": "King Of Hops Pale Ale",
+    "IndividualBrandVariantCode": 2070637,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82766,
+    "IndividualBrandVariantName": "King Of Hops Golden Ale",
+    "IndividualBrandVariantCode": 2070106,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82775,
+    "IndividualBrandVariantName": "Absolut Apple",
+    "IndividualBrandVariantCode": 2063952,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82779,
+    "IndividualBrandVariantName": "Absolut Cherrykran",
+    "IndividualBrandVariantCode": 2063954,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 82785,
+    "IndividualBrandVariantName": "King Of Hops Session Ipa",
+    "IndividualBrandVariantCode": 2071156,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "ProductSectorName": "Ale",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 82951,
+    "IndividualBrandVariantName": "Absolut Honey",
+    "IndividualBrandVariantCode": 2063959,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 83300,
+    "IndividualBrandVariantName": "Absolut 100 Proof Red Label",
+    "IndividualBrandVariantCode": 2061530,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83302,
+    "IndividualBrandVariantName": "Absolut Bitter Cherry",
+    "IndividualBrandVariantCode": 2061531,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83305,
+    "IndividualBrandVariantName": "Absolut Grapefruit",
+    "IndividualBrandVariantCode": 2061532,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83307,
+    "IndividualBrandVariantName": "Absolut Herbaceous Lemon",
+    "IndividualBrandVariantCode": 2061533,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83313,
+    "IndividualBrandVariantName": "Absolut Limited Edition",
+    "IndividualBrandVariantCode": 2061534,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83321,
+    "IndividualBrandVariantName": "Absolut Smokey Tea",
+    "IndividualBrandVariantCode": 2061535,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "
+  },
+  {
+    "ID": 83486,
+    "IndividualBrandVariantName": "Absolut Super Pemium Vodka",
+    "IndividualBrandVariantCode": 2001123,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 86286,
+    "IndividualBrandVariantName": "Aftershock Orange Limited Edition",
+    "IndividualBrandVariantCode": 2084328,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_GB_RETAIL ON_Orion"
+  },
+  {
+    "ID": 86293,
+    "IndividualBrandVariantName": "Aftershock Silver",
+    "IndividualBrandVariantCode": 2084329,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_GB_RETAIL ON_Orion"
+  },
+  {
+    "ID": 86314,
+    "IndividualBrandVariantName": "Aftershock Hot Apple",
+    "IndividualBrandVariantCode": 2072654,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 86320,
+    "IndividualBrandVariantName": "Altesino Grappa",
+    "IndividualBrandVariantCode": 2057940,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Grappa",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 86361,
+    "IndividualBrandVariantName": "Aberlour 19YO",
+    "IndividualBrandVariantCode": 2126305,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 86363,
+    "IndividualBrandVariantName": "Absolut Hibiskus",
+    "IndividualBrandVariantCode": 2126311,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 86366,
+    "IndividualBrandVariantName": "Absolut Ruby Red Grapefruit",
+    "IndividualBrandVariantCode": 2126318,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_CZ NEW_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 86372,
+    "IndividualBrandVariantName": "Allegrini Appassimento",
+    "IndividualBrandVariantCode": 2126319,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 86382,
+    "IndividualBrandVariantName": "Allegrini Veneto Rosso",
+    "IndividualBrandVariantCode": 2126320,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 90573,
+    "IndividualBrandVariantName": "After Shock Cranberry",
+    "IndividualBrandVariantCode": 2137285,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 91378,
+    "IndividualBrandVariantName": "ABC Golden Lager",
+    "IndividualBrandVariantCode": 2001043,
+    "BrandName": "ABC",
+    "BrandCode": 1000110,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 92877,
+    "IndividualBrandVariantName": "Aftershock Red Hot And Cool Cinnamon",
+    "IndividualBrandVariantCode": 2138220,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 92900,
+    "IndividualBrandVariantName": "Pacharan Navarro Other",
+    "IndividualBrandVariantCode": 2138295,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_ES_RETAIL ON_Orion"
+  },
+  {
+    "ID": 100914,
+    "IndividualBrandVariantName": "Aberlour 26YO 1989 Carn Mor",
+    "IndividualBrandVariantCode": 3001699,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Monopoly_SE_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 100916,
+    "IndividualBrandVariantName": "Aberlour Scott's Selection",
+    "IndividualBrandVariantCode": 3001701,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Monopoly_SE_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 100918,
+    "IndividualBrandVariantName": "Aberlour 21YO Old Malt Cask",
+    "IndividualBrandVariantCode": 3001703,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Monopoly_SE_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 101905,
+    "IndividualBrandVariantName": "Absolut Mixt Blueberry & Lime",
+    "IndividualBrandVariantCode": 3002798,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Pre-Mixed",
+    "SourceSystem": "Monopoly_SE_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 101906,
+    "IndividualBrandVariantName": "Absolut Mixt Raspberry & Lemon",
+    "IndividualBrandVariantCode": 3002799,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Pre-Mixed",
+    "SourceSystem": "Monopoly_SE_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 102398,
+    "IndividualBrandVariantName": "Aberlour 15YO Cuvee Marie D'Ecosse",
+    "IndividualBrandVariantCode": 3003533,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "CGA_FR_RETAIL ON_Orion"
+  },
+  {
+    "ID": 103019,
+    "IndividualBrandVariantName": "After Shock Green",
+    "IndividualBrandVariantCode": 3004208,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Spirits",
+    "SourceSystem": "External_Market_Data_IE_RETAIL ON_Orion"
+  },
+  {
+    "ID": 104089,
+    "IndividualBrandVariantName": "Absolut Juice Apple Edition",
+    "IndividualBrandVariantCode": 3005660,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "US_STS_Orion"
+  },
+  {
+    "ID": 104374,
+    "IndividualBrandVariantName": "Aberlour Back Gammon",
+    "IndividualBrandVariantCode": 3006068,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Blended Scotch Whisky",
+    "SourceSystem": "CategorySize_Orion"
+  },
+  {
+    "ID": 106843,
+    "IndividualBrandVariantName": "Alize Pineapple",
+    "IndividualBrandVariantCode": 3009181,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "US_STS_Orion"
+  },
+  {
+    "ID": 107329,
+    "IndividualBrandVariantName": "Absolut Juice Rhubarb Edition",
+    "IndividualBrandVariantCode": 3009809,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Other Flavoured Spirits",
+    "SourceSystem": "External_Market_Data_IX_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 107597,
+    "IndividualBrandVariantName": "Aberlour A'Bunadh Alba",
+    "IndividualBrandVariantCode": 3010127,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Other Whisk(e)y",
+    "SourceSystem": "US_STS_Orion"
+  },
+  {
+    "ID": 109738,
+    "IndividualBrandVariantName": "Absolut Passionfruit",
+    "IndividualBrandVariantCode": 3012862,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_IX_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 116670,
+    "IndividualBrandVariantName": "10 Cane Rum",
+    "IndividualBrandVariantCode": 10000484,
+    "BrandName": "10 Cane",
+    "BrandCode": 1000100,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116671,
+    "IndividualBrandVariantName": "22 Marquis Coconut Cognac",
+    "IndividualBrandVariantCode": 10000485,
+    "BrandName": "22 Marquis",
+    "BrandCode": 1000101,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116672,
+    "IndividualBrandVariantName": "22 Marquis Gold Cognac",
+    "IndividualBrandVariantCode": 10000486,
+    "BrandName": "22 Marquis",
+    "BrandCode": 1000101,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116673,
+    "IndividualBrandVariantName": "22 Marquis Rose Cognac",
+    "IndividualBrandVariantCode": 10000487,
+    "BrandName": "22 Marquis",
+    "BrandCode": 1000101,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116681,
+    "IndividualBrandVariantName": "7th Continent Adelaide Chard/P Grigio",
+    "IndividualBrandVariantCode": 10000495,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116682,
+    "IndividualBrandVariantName": "7th Continent Adelaide Hills Viognier",
+    "IndividualBrandVariantCode": 10000496,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116683,
+    "IndividualBrandVariantName": "7th Continent Coonawara Cab Sauv",
+    "IndividualBrandVariantCode": 10000497,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116684,
+    "IndividualBrandVariantName": "7th Continent Coonawara Merlot",
+    "IndividualBrandVariantCode": 10000498,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116685,
+    "IndividualBrandVariantName": "7th Continent Coonawara Riesling",
+    "IndividualBrandVariantCode": 10000499,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116686,
+    "IndividualBrandVariantName": "7th Continent Hunter Valley Semillon",
+    "IndividualBrandVariantCode": 10000500,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116687,
+    "IndividualBrandVariantName": "7th Continent Hunter Valley Shiraz",
+    "IndividualBrandVariantCode": 10000501,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116688,
+    "IndividualBrandVariantName": "7th Continent Hunter Valley Viognier",
+    "IndividualBrandVariantCode": 10000502,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116689,
+    "IndividualBrandVariantName": "7th Continent Lanhorne Creek Cab Sauv",
+    "IndividualBrandVariantCode": 10000503,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116690,
+    "IndividualBrandVariantName": "7th Continent Margaret River Cab Sauv",
+    "IndividualBrandVariantCode": 10000504,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116691,
+    "IndividualBrandVariantName": "7th Continent Margaret River Chardonnay",
+    "IndividualBrandVariantCode": 10000505,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116692,
+    "IndividualBrandVariantName": "7th Continent McLaren Shiraz/Grenache",
+    "IndividualBrandVariantCode": 10000506,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116693,
+    "IndividualBrandVariantName": "7th Continent S Aust Cab Sauv/Merlot",
+    "IndividualBrandVariantCode": 10000507,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116694,
+    "IndividualBrandVariantName": "7th Continent S Aust Semillion/Sauv Bl",
+    "IndividualBrandVariantCode": 10000508,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116695,
+    "IndividualBrandVariantName": "7th Continent Other",
+    "IndividualBrandVariantCode": 10000509,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116696,
+    "IndividualBrandVariantName": "7th Continent Yea Valley Chardonnay",
+    "IndividualBrandVariantCode": 10000510,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116697,
+    "IndividualBrandVariantName": "7th Continent Yea Valley Merlot",
+    "IndividualBrandVariantCode": 10000511,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116698,
+    "IndividualBrandVariantName": "7th Continent Yea Valley Riesling",
+    "IndividualBrandVariantCode": 10000512,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116699,
+    "IndividualBrandVariantName": "7th Continent Adelaide Riesling",
+    "IndividualBrandVariantCode": 10000513,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116700,
+    "IndividualBrandVariantName": "7UP Other",
+    "IndividualBrandVariantCode": 10000514,
+    "BrandName": "7UP",
+    "BrandCode": 1000106,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116701,
+    "IndividualBrandVariantName": "7Up Lemon",
+    "IndividualBrandVariantCode": 10000515,
+    "BrandName": "7UP",
+    "BrandCode": 1000106,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116702,
+    "IndividualBrandVariantName": "90 Cellars Cabernet Sauvignon",
+    "IndividualBrandVariantCode": 10000516,
+    "BrandName": "90 Cellars",
+    "BrandCode": 1000107,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116703,
+    "IndividualBrandVariantName": "90 Cellars Other",
+    "IndividualBrandVariantCode": 10000517,
+    "BrandName": "90 Cellars",
+    "BrandCode": 1000107,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116706,
+    "IndividualBrandVariantName": "ABC Golden Lager In Bottle",
+    "IndividualBrandVariantCode": 10000520,
+    "BrandName": "ABC",
+    "BrandCode": 1000110,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116707,
+    "IndividualBrandVariantName": "ABC Golden Mother Beer",
+    "IndividualBrandVariantCode": 10000521,
+    "BrandName": "ABC",
+    "BrandCode": 1000110,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116710,
+    "IndividualBrandVariantName": "Blackadder 199 Raw Cask",
+    "IndividualBrandVariantCode": 10000524,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "Malt Scotch Whisky",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 116711,
+    "IndividualBrandVariantName": "Aberlour Double Cask 12 Yr Old",
+    "IndividualBrandVariantCode": 10000525,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116712,
+    "IndividualBrandVariantName": "Aberlour 13 Yr Old",
+    "IndividualBrandVariantCode": 10000526,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116713,
+    "IndividualBrandVariantName": "Aberlour 14 Yr Old",
+    "IndividualBrandVariantCode": 10000527,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116714,
+    "IndividualBrandVariantName": "Aberlour Double Cask 16 Yr Old",
+    "IndividualBrandVariantCode": 10000528,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116715,
+    "IndividualBrandVariantName": "Aberlour Double Cask 17 Yr Old",
+    "IndividualBrandVariantCode": 10000529,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116716,
+    "IndividualBrandVariantName": "Aberlour 25 Yr Old And Rare",
+    "IndividualBrandVariantCode": 10000530,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116717,
+    "IndividualBrandVariantName": "Aberlour Single Malt Whisky",
+    "IndividualBrandVariantCode": 10000531,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116718,
+    "IndividualBrandVariantName": "Aberlour Single Malt Scotch Whisky Speyside 21YO",
+    "IndividualBrandVariantCode": 10000532,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116719,
+    "IndividualBrandVariantName": "Aberlour Non Chill Filtered 12 Yr Old",
+    "IndividualBrandVariantCode": 10000533,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116720,
+    "IndividualBrandVariantName": "Aberlour 12 Yr Old Select Cask Reserve",
+    "IndividualBrandVariantCode": 10000534,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116721,
+    "IndividualBrandVariantName": "Aberlour Double Cask 16 Yr Old",
+    "IndividualBrandVariantCode": 10000535,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116722,
+    "IndividualBrandVariantName": "Aberlour 13 YO Highland Single Malt Scotch Whisky",
+    "IndividualBrandVariantCode": 10000536,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116723,
+    "IndividualBrandVariantName": "Aberlour 17 YO Highland Single Malt Scotch Whisky",
+    "IndividualBrandVariantCode": 10000537,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116724,
+    "IndividualBrandVariantName": "Aberlour Glenlivet 8 YO Single Malt Scotch Whisky",
+    "IndividualBrandVariantCode": 10000538,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116725,
+    "IndividualBrandVariantName": "Absolut 100 Proof Vodka",
+    "IndividualBrandVariantCode": 10000539,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116726,
+    "IndividualBrandVariantName": "Absolut Country of Spain Granada",
+    "IndividualBrandVariantCode": 10000540,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116727,
+    "IndividualBrandVariantName": "Absolut Elyx Coffee Catalyzation Vodka",
+    "IndividualBrandVariantCode": 10000541,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116728,
+    "IndividualBrandVariantName": "Absolut Florida Original Limited Edition Imported Vodka",
+    "IndividualBrandVariantCode": 10000542,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116729,
+    "IndividualBrandVariantName": "Absolut Game Day Signature Team Glass Gift Pack Vodka",
+    "IndividualBrandVariantCode": 10000543,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116730,
+    "IndividualBrandVariantName": "Absolut Heroes Imported",
+    "IndividualBrandVariantCode": 10000544,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116731,
+    "IndividualBrandVariantName": "Absolut Limited India Mango Pepper Flavored Vodka",
+    "IndividualBrandVariantCode": 10000545,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116732,
+    "IndividualBrandVariantName": "Absolut Original Andy Warhol Limited Edition Vodka",
+    "IndividualBrandVariantCode": 10000546,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116733,
+    "IndividualBrandVariantName": "Absolut Cilantro",
+    "IndividualBrandVariantCode": 10000547,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116734,
+    "IndividualBrandVariantName": "Absolut Vodka",
+    "IndividualBrandVariantCode": 10000548,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116735,
+    "IndividualBrandVariantName": "Absolut Vodka Country of Sweden",
+    "IndividualBrandVariantCode": 10000549,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116736,
+    "IndividualBrandVariantName": "Absolut Chicago Limited Edition Olive & Rosemary Vodka",
+    "IndividualBrandVariantCode": 10000550,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116737,
+    "IndividualBrandVariantName": "Absolut Texas CCMBR PPR",
+    "IndividualBrandVariantCode": 10000551,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116738,
+    "IndividualBrandVariantName": "Absolut (RTD)",
+    "IndividualBrandVariantCode": 10000552,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116739,
+    "IndividualBrandVariantName": "Absolut Unknown",
+    "IndividualBrandVariantCode": 10000553,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116740,
+    "IndividualBrandVariantName": "Absolut Regular Vodka",
+    "IndividualBrandVariantCode": 10000554,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116741,
+    "IndividualBrandVariantName": "Absolut Love Turquoise",
+    "IndividualBrandVariantCode": 10000555,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "Monopoly"
+  },
+  {
+    "ID": 116742,
+    "IndividualBrandVariantName": "Absolut Peppar Vodka",
+    "IndividualBrandVariantCode": 10000556,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116743,
+    "IndividualBrandVariantName": "Absolut Core Vodka",
+    "IndividualBrandVariantCode": 10000557,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116744,
+    "IndividualBrandVariantName": "Absolut Edic Sequins",
+    "IndividualBrandVariantCode": 10000558,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116745,
+    "IndividualBrandVariantName": "Absolut Playa",
+    "IndividualBrandVariantCode": 10000559,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116746,
+    "IndividualBrandVariantName": "Absolut Exposure Vodka",
+    "IndividualBrandVariantCode": 10000560,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116747,
+    "IndividualBrandVariantName": "Absolut Oak Barrel Crafted",
+    "IndividualBrandVariantCode": 10000561,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116748,
+    "IndividualBrandVariantName": "Absolut Oz Spiced Orange Vodka",
+    "IndividualBrandVariantCode": 10000562,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116749,
+    "IndividualBrandVariantName": "Absolut Raw Crisp Character",
+    "IndividualBrandVariantCode": 10000563,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116826,
+    "IndividualBrandVariantName": "Albino Rocca Dolcetto D'Alba",
+    "IndividualBrandVariantCode": 10000715,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116827,
+    "IndividualBrandVariantName": "Albino Rocca La Rocca Bianc Cortese",
+    "IndividualBrandVariantCode": 10000716,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Cider",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116828,
+    "IndividualBrandVariantName": "Albino Rocca Other",
+    "IndividualBrandVariantCode": 10000717,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116862,
+    "IndividualBrandVariantName": "Albino Rocca Barbera D'Alba Gepin",
+    "IndividualBrandVariantCode": 10000718,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116863,
+    "IndividualBrandVariantName": "Ale Other",
+    "IndividualBrandVariantCode": 10000719,
+    "BrandName": "Ale",
+    "BrandCode": 1000120,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116898,
+    "IndividualBrandVariantName": "Adehyie Other",
+    "IndividualBrandVariantCode": 10000704,
+    "BrandName": "Adehyie",
+    "BrandCode": 1000115,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116899,
+    "IndividualBrandVariantName": "Adehyie Lager in Bottle",
+    "IndividualBrandVariantCode": 10000705,
+    "BrandName": "Adehyie",
+    "BrandCode": 1000115,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116900,
+    "IndividualBrandVariantName": "Aftershock Liqueur",
+    "IndividualBrandVariantCode": 10000706,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 116901,
+    "IndividualBrandVariantName": "Aftershock Cool Citrus",
+    "IndividualBrandVariantCode": 10000707,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "GB_RETAIL OFF"
+  },
+  {
+    "ID": 116902,
+    "IndividualBrandVariantName": "Aftershock Hot&Cool_Cinnamon",
+    "IndividualBrandVariantCode": 10000708,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data_BE-NL-DK_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 116903,
+    "IndividualBrandVariantName": "Agricola Castellana Other",
+    "IndividualBrandVariantCode": 10000709,
+    "BrandName": "Agricola Castellana",
+    "BrandCode": 1000117,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116904,
+    "IndividualBrandVariantName": "Azumbre Verdejo",
+    "IndividualBrandVariantCode": 10000710,
+    "BrandName": "Agricola Castellana",
+    "BrandCode": 1000117,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116905,
+    "IndividualBrandVariantName": "Albert Pic Other",
+    "IndividualBrandVariantCode": 10000711,
+    "BrandName": "Albert Pic",
+    "BrandCode": 1000118,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116906,
+    "IndividualBrandVariantName": "Albert Pic Chardonnay",
+    "IndividualBrandVariantCode": 10000712,
+    "BrandName": "Albert Pic",
+    "BrandCode": 1000118,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116907,
+    "IndividualBrandVariantName": "Albino Rocca Barbera D'Alba",
+    "IndividualBrandVariantCode": 10000713,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116908,
+    "IndividualBrandVariantName": "Albino Rocca Barberesco Brich Ronch",
+    "IndividualBrandVariantCode": 10000714,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116909,
+    "IndividualBrandVariantName": "Keith's Original Cider Contract Pack",
+    "IndividualBrandVariantCode": 10000720,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116910,
+    "IndividualBrandVariantName": "Alfred Gratien Other",
+    "IndividualBrandVariantCode": 10000721,
+    "BrandName": "Alfred Gratien",
+    "BrandCode": 1000122,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116911,
+    "IndividualBrandVariantName": "Alfred Gratien Cuvee Millenaire",
+    "IndividualBrandVariantCode": 10000722,
+    "BrandName": "Alfred Gratien",
+    "BrandCode": 1000122,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116912,
+    "IndividualBrandVariantName": "Alfred Gratien Brut Millesime",
+    "IndividualBrandVariantCode": 10000723,
+    "BrandName": "Alfred Gratien",
+    "BrandCode": 1000122,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116913,
+    "IndividualBrandVariantName": "Alize Gold Passion Liqueur",
+    "IndividualBrandVariantCode": 10000724,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116914,
+    "IndividualBrandVariantName": "Alize Red Passion Liqueur",
+    "IndividualBrandVariantCode": 10000725,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116915,
+    "IndividualBrandVariantName": "Alize Liqueur",
+    "IndividualBrandVariantCode": 10000726,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 116916,
+    "IndividualBrandVariantName": "Alize Cream",
+    "IndividualBrandVariantCode": 10000727,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 116917,
+    "IndividualBrandVariantName": "Alize Gold & Viking Fjord Citrus",
+    "IndividualBrandVariantCode": 10000728,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116918,
+    "IndividualBrandVariantName": "Alize De France Gold",
+    "IndividualBrandVariantCode": 10000729,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116919,
+    "IndividualBrandVariantName": "Alize Bleu",
+    "IndividualBrandVariantCode": 10000730,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "Other Liqueur",
+    "SourceSystem": "External_Market_Data"
+  },
+  {
+    "ID": 116920,
+    "IndividualBrandVariantName": "Alize Bleu Premium French Vodka and Cognac",
+    "IndividualBrandVariantCode": 10000731,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116921,
+    "IndividualBrandVariantName": "Alize Coco Liqueur",
+    "IndividualBrandVariantCode": 10000732,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116922,
+    "IndividualBrandVariantName": "Alize Rose Passion Cognac",
+    "IndividualBrandVariantCode": 10000733,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116923,
+    "IndividualBrandVariantName": "Alize Rose Passion Liqueur",
+    "IndividualBrandVariantCode": 10000734,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "TRACKS US"
+  },
+  {
+    "ID": 116924,
+    "IndividualBrandVariantName": "Allegrini Internal Order",
+    "IndividualBrandVariantCode": 10000735,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116925,
+    "IndividualBrandVariantName": "Allegrini Grappa",
+    "IndividualBrandVariantCode": 10000736,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 116926,
+    "IndividualBrandVariantName": "Allegrini Other",
+    "IndividualBrandVariantCode": 10000737,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116927,
+    "IndividualBrandVariantName": "Allegrini Amarone Classico",
+    "IndividualBrandVariantCode": 10000738,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116928,
+    "IndividualBrandVariantName": "Allegrini La Grola",
+    "IndividualBrandVariantCode": 10000739,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116929,
+    "IndividualBrandVariantName": "Allegrini Recioto Giovanni",
+    "IndividualBrandVariantCode": 10000740,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116930,
+    "IndividualBrandVariantName": "Allegrini La Poja",
+    "IndividualBrandVariantCode": 10000741,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116931,
+    "IndividualBrandVariantName": "Allegrini Valpolicella Classico",
+    "IndividualBrandVariantCode": 10000742,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116932,
+    "IndividualBrandVariantName": "Allegrini Soave",
+    "IndividualBrandVariantCode": 10000743,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116933,
+    "IndividualBrandVariantName": "Allsopps Lager In Bottle",
+    "IndividualBrandVariantCode": 10000744,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "Lager",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116934,
+    "IndividualBrandVariantName": "Allsopps Lager Mother Beer",
+    "IndividualBrandVariantCode": 10000745,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "Stout",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116935,
+    "IndividualBrandVariantName": "Allsopps Unknown",
+    "IndividualBrandVariantCode": 10000746,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116936,
+    "IndividualBrandVariantName": "Alta Mesa Cellars Other",
+    "IndividualBrandVariantCode": 10000747,
+    "BrandName": "Alta Mesa Cellars",
+    "BrandCode": 1000126,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116937,
+    "IndividualBrandVariantName": "Alta Mesa Tempranillo",
+    "IndividualBrandVariantCode": 10000748,
+    "BrandName": "Alta Mesa Cellars",
+    "BrandCode": 1000126,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116938,
+    "IndividualBrandVariantName": "Alta Mesa Verdelho",
+    "IndividualBrandVariantCode": 10000749,
+    "BrandName": "Alta Mesa Cellars",
+    "BrandCode": 1000126,
+    "ProductSectorName": "Brandy",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116942,
+    "IndividualBrandVariantName": "Alta Vista Other",
+    "IndividualBrandVariantCode": 10000753,
+    "BrandName": "Alta Vista",
+    "BrandCode": 1000128,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "NULL"
+  },
+  {
+    "ID": 116943,
+    "IndividualBrandVariantName": "Alta Vista Argentinian Wine",
+    "IndividualBrandVariantCode": 10000754,
+    "BrandName": "Alta Vista",
+    "BrandCode": 1000128,
+    "ProductSectorName": "NULL",
+    "SourceSystem": "Apollo"
+  },
+  {
+    "ID": 116944,
+    "IndividualBrandVariantName": "Altesino Alte d'Altesi Rosso",
+    "IndividualBrandVariantCode": 10000755,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116945,
+    "IndividualBrandVariantName": "Altesino Bianco IGT",
+    "IndividualBrandVariantCode": 10000756,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116946,
+    "IndividualBrandVariantName": "Altesino Brunello Montosoli",
+    "IndividualBrandVariantCode": 10000757,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Grappa",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 116947,
+    "IndividualBrandVariantName": "Altesino Palazzo Altesi Rosso",
+    "IndividualBrandVariantCode": 10000758,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "ProductSectorName": "Wine",
+    "SourceSystem": "SAP"
+  },
+  {
+    "ID": 149024,
+    "IndividualBrandVariantName": "Absolut Core",
+    "IndividualBrandVariantCode": 3015552,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "IRI_AU_RETAIL OFF_Orion"
+  },
+  {
+    "ID": 150139,
+    "IndividualBrandVariantName": "Absolut Disco",
+    "IndividualBrandVariantCode": 3017093,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "ProductSectorName": "Non Flavoured Vodka",
+    "SourceSystem": "External_Market_Data_PL_RETAIL OFF_Orion"
+  }
+]

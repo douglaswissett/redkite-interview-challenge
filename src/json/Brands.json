@@ -1,0 +1,227 @@
+[
+  {
+    "ID": 1,
+    "BrandName": "10 Cane",
+    "BrandCode": 1000100,
+    "TradeMark": "10 Cane™",
+    "BrandOwner": "LVMH",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 2,
+    "BrandName": "King Of Hops",
+    "BrandCode": 1021150,
+    "TradeMark": "King Of Hops™",
+    "BrandOwner": "King Of Hops",
+    "SourceSystem": "GB_RETAIL OFF",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 3,
+    "BrandName": "22 Marquis",
+    "BrandCode": 1000101,
+    "TradeMark": "22 Marquis™",
+    "BrandOwner": "22 Marquis",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 4,
+    "BrandName": "Little Vienna",
+    "BrandCode": 1022443,
+    "TradeMark": "Little Vienna™",
+    "BrandOwner": "Little Vienna",
+    "SourceSystem": "GB_RETAIL OFF",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 6,
+    "BrandName": "3D",
+    "BrandCode": 1000103,
+    "TradeMark": "3D™",
+    "BrandOwner": "3D",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 8,
+    "BrandName": "7th Continent",
+    "BrandCode": 1000105,
+    "TradeMark": "7th Continent™",
+    "BrandOwner": "7th Continent",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 9,
+    "BrandName": "7UP",
+    "BrandCode": 1000106,
+    "TradeMark": "7UP™",
+    "BrandOwner": "7UP",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 10,
+    "BrandName": "90 Cellars",
+    "BrandCode": 1000107,
+    "TradeMark": "90 Cellars™",
+    "BrandOwner": "90 Cellars",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 13,
+    "BrandName": "ABC",
+    "BrandCode": 1000110,
+    "TradeMark": "ABC™",
+    "BrandOwner": "Heineken",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 15,
+    "BrandName": "Aberlour",
+    "BrandCode": 1000112,
+    "TradeMark": "Aberlour™",
+    "BrandOwner": "Pernod Ricard",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 16,
+    "BrandName": "Absolut",
+    "BrandCode": 1000113,
+    "TradeMark": "Absolut™",
+    "BrandOwner": "Pernod Ricard",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 18,
+    "BrandName": "Adehyie",
+    "BrandCode": 1000115,
+    "TradeMark": "Adehyie™",
+    "BrandOwner": "Adehyie",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 19,
+    "BrandName": "Aftershock",
+    "BrandCode": 1000116,
+    "TradeMark": "Aftershock™",
+    "BrandOwner": "Beam Suntory",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 20,
+    "BrandName": "Agricola Castellana",
+    "BrandCode": 1000117,
+    "TradeMark": "Agricola Castellana™",
+    "BrandOwner": "Agricola Castellana",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 21,
+    "BrandName": "Albert Pic",
+    "BrandCode": 1000118,
+    "TradeMark": "Albert Pic™",
+    "BrandOwner": "Albert Pic",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 22,
+    "BrandName": "Albino Rocca",
+    "BrandCode": 1000119,
+    "TradeMark": "Albino Rocca™",
+    "BrandOwner": "Albino Rocca",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 23,
+    "BrandName": "Ale",
+    "BrandCode": 1000120,
+    "TradeMark": "Ale™",
+    "BrandOwner": "Ale",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 24,
+    "BrandName": "Alexander Keith's",
+    "BrandCode": 1000121,
+    "TradeMark": "Alexander Keith's™",
+    "BrandOwner": "A-BInBev",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 25,
+    "BrandName": "Alfred Gratien",
+    "BrandCode": 1000122,
+    "TradeMark": "Alfred Gratien™",
+    "BrandOwner": "Alfred Gratien",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 26,
+    "BrandName": "Alize",
+    "BrandCode": 1000123,
+    "TradeMark": "Alize™",
+    "BrandOwner": "Quintessential",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 27,
+    "BrandName": "Allegrini",
+    "BrandCode": 1000124,
+    "TradeMark": "Allegrini™",
+    "BrandOwner": "Allegrini",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 28,
+    "BrandName": "Allsopps",
+    "BrandCode": 1000125,
+    "TradeMark": "Allsopps™",
+    "BrandOwner": "Carlsberg Group",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 29,
+    "BrandName": "Alta Mesa Cellars",
+    "BrandCode": 1000126,
+    "TradeMark": "Alta Mesa Cellars™",
+    "BrandOwner": "Alta Mesa Cellars",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 31,
+    "BrandName": "Alta Vista",
+    "BrandCode": 1000128,
+    "TradeMark": "Alta Vista™",
+    "BrandOwner": "Alta Vista",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  },
+  {
+    "ID": 32,
+    "BrandName": "Altesino",
+    "BrandCode": 1000129,
+    "TradeMark": "Altesino™",
+    "BrandOwner": "Altesino",
+    "SourceSystem": "SAP",
+    "Status": "Validation Succeeded"
+  }
+]
