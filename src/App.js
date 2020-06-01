@@ -1,24 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {
+  PMQItem
+} from './components';
+import pmq from './json/PMQ.json';
+
 
 function App() {
+  let sorted;
+  const sortBySourceVolumeMetric = () => {
+    sorted = pmq.sort((a, b) => a.SourceVolumeMetric - b.SourceVolumeMetric);
+  }
+
+  const data = sorted || pmq;
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="container">
+        <h1>PMQ</h1>
+        <div>
+          <button onClick={sortBySourceVolumeMetric}>
+            Sort by SourceVolumeMetric
+          </button>
+        </div>
+        <ul className="row-list">
+          {
+            data.map(item => (
+              <PMQItem key={item.ID} item={item} />
+            ))
+          }
+        </ul>
+      </div>
     </div>
   );
 }

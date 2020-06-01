@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  background-color: #fff;
+}
+
+.row-list {
+  list-style: none;
+}
+
+.row-item {
+  float: left;
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+
+.row-label {
+  color: grey;
+}
